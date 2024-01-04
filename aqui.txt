@@ -1,0 +1,2 @@
+Aqui é um teste para criptografar o arquivo simulando um ransonware.
+Leandro
